@@ -1,0 +1,91 @@
+{
+  "users": [
+    {
+      "name": "수정된사용자883",
+      "email": "updated883@example.com",
+      "age": 46,
+      "city": "수정된도시",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "김영희",
+      "email": "kim@example.com",
+      "age": 30,
+      "city": "부산"
+    },
+    {
+      "id": "3",
+      "name": "이철수",
+      "email": "lee@example.com",
+      "age": 28,
+      "city": "대구"
+    },
+    {
+      "name": "김나은",
+      "email": "test1758470178618@example.com",
+      "city": "서울",
+      "age": 32,
+      "id": "6aef"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "첫 번째 포스트",
+      "content": "JSON Server는 정말 유용한 도구입니다.",
+      "authorId": 1,
+      "createdAt": "2024-01-15T10:30:00Z",
+      "tags": [
+        "javascript",
+        "react",
+        "json-server"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "두 번째 포스트",
+      "content": "프론트엔드 개발이 더 쉬워졌습니다.",
+      "authorId": 2,
+      "createdAt": "2024-01-16T14:20:00Z",
+      "tags": [
+        "frontend",
+        "development"
+      ]
+    },
+    {
+      "id": "e9a8",
+      "title": "ㅎㅇㅎㅇ",
+      "body": "ㅎㅇㅎㅇㅎㅇ",
+      "authorId": "1"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "postId": 1,
+      "authorId": 2,
+      "content": "좋은 내용이네요!",
+      "createdAt": "2024-01-15T11:00:00Z"
+    },
+    {
+      "id": "2",
+      "postId": 1,
+      "authorId": 3,
+      "content": "동감합니다.",
+      "createdAt": "2024-01-15T11:30:00Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "기술",
+      "description": "개발 관련 내용"
+    },
+    {
+      "id": "2",
+      "name": "일상",
+      "description": "일상적인 이야기"
+    }
+  ]
+}

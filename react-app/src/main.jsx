@@ -4,7 +4,8 @@ import { createRoot } from 'react-dom/client'
 // import App from './App02.jsx'
 // import App from './App03.jsx'
 // import App from './App04.jsx'
-import App from './App05.jsx'
+// import App from './App05.jsx'
+import App from './App06.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
