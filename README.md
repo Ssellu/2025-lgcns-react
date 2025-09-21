@@ -13,3 +13,4 @@
 | 07 | Hooks | [07-hooks.md](./chapters/07-hooks.md) |
 | 08 | AJAX 통신 | [08-ajax.md](./chapters/08-ajax.md) |
 | 09 | React Lifecycles | [09-react-lifecycles.md](./chapters/09-react-lifecycles.md) |
+| 10 | Route | [10-route.md](./chapters/10-route.md) |
