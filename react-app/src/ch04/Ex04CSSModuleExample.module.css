@@ -1,0 +1,38 @@
+.container {
+    border: 2px solid #e9ecef;
+    border-radius: 12px;
+    padding: 24px;
+    margin: 16px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.title {
+    font-size: 24px;
+    font-weight: 600;
+    margin-bottom: 12px;
+    text-align: center;
+}
+
+.description {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 16px;
+}
+
+.button {
+    background-color: rgba(255, 255, 255, 0.2);
+    color: white;
+    border: 2px solid white;
+    border-radius: 6px;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: all 0.3s ease;
+}
+
+.button:hover {
+    background-color: white;
+    color: #667eea;
+}
